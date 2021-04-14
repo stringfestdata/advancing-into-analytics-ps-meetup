@@ -1,5 +1,8 @@
 # Resources for _Advancing into Analytics_ Presentation to the PM Financial Modelling Meetup
 
+
+## Repo under construction; proceed with caution
+
 ![Meetup cover](aina-ps-meetup-aus.png)
 
 

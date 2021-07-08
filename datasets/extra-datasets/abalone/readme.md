@@ -1,1 +1,0 @@
-Data source: [UC Irvine's Machine Learning Repository](http://archive.ics.uci.edu/ml/machine-learning-databases/abalone)

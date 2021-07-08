@@ -3,7 +3,7 @@
 
 ## Repo under construction; proceed with caution
 
-![Meetup cover](aina-ps-meetup-aus.png)
+![Meetup cover](images/aina-ps-meetup-aus.png)
 
 
 ### Follow along with the presentation by clicking following links: 

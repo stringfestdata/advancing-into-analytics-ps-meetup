@@ -1,8 +1,5 @@
 # Resources for _Advancing into Analytics_ Presentation to the PM Financial Modelling Meetup
 
-
-## Repo under construction; proceed with caution
-
 ![Meetup cover](images/aina-ps-meetup-aus.png)
 
 
@@ -14,7 +11,7 @@ Run in Jupyter: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinde
 
 
 
-## Want more? [Check out my book, _Advancing into Analytics: From Excel to Python and R_ (O'Reilly)](http://georgejmount.com/book/)
+## Want more? Check out my book, _Advancing into Analytics: From Excel to Python and R_.
 ### [Read the book for FREE and subscribe to my newsletter for your free "30 Days to Data Analyst" checklist.](http://stringfestanalytics.com/book)
 
 ![Book cover](images/cover.jpg)

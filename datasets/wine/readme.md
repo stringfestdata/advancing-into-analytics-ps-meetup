@@ -1,1 +1,0 @@
-[Data source: UC Irvine Macine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Wine+Quality)
